@@ -1,14 +1,14 @@
 {
-  "name": "brokendisc",
+  "name": "God Of Music",
   "version": "2.0.1",
   "description": "",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/BlackKnight683/BrokenDisc#README",
+  "homepage": "https://github.com/NexusLove/GOM#README",
   "main": "src/index.js",
   "private": true,
   "author": {
-    "name": "blackknight683",
-    "url": "https://solonodes.xyz"
+    "name": "NexusLove",
+    "url": "https://github.com/NexusLove"
   },
   "scripts": {
     "test": "echo \"error: no test specified\" && exit 1",
@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/BlackKnight683/BrokenDisc.git"
+    "url": "git+ssh://git@github.com/NexusLove/GOM.git"
   },
   "bugs": {
-    "url": "https://github.com/BlackKnight683/BrokenDisc/issues",
-    "email": "oofy@solonodes.xyz"
+    "url": "https://github.com/NexusLove/GOM/issues",
+    "email": "nexusloveyt@gmail.com"
   },
   "keywords": [
     "discord-bot",
