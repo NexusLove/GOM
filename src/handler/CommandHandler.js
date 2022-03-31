@@ -41,7 +41,7 @@ module.exports = async function loadCommands(bot) {
     bot.commands.set(command.name, command);
   }
   
-  console.log(chalk.green('[BlackKnight683]') + chalk.cyan(' Thanks for using BrokenDisc v2 | Subscribe to my youtube @ https://youtube.com/c/BlackKnight683 💜'))
+  console.log(chalk.green('[NexusLove]') + chalk.cyan(' Thanks for using God Of Music v2 | Subscribe to my youtube @ https://youtube.com/c/NexusLoveYT 💜'))
   console.log(chalk.red('=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+='))
   console.log(chalk.green('Bot: ') + chalk.cyan(`${bot.user.tag}`))
   console.log(chalk.green('Status: ') + chalk.cyan('Initialized'))
