@@ -17,8 +17,8 @@ module.exports = {
         `**Bot Id:** ${bot.user.id}
         **Bot Tag:** ${bot.user.tag}
         **Created At :** ${createdAt.toDateString()}
-        **Developer:** [•OofyOofOof•#2018](https:\/\/youtube.com\/c\/BlackKnight683)
-        **Github Repo:** __[BlackKnight683/BrokenDisc](https:\/\/github.com\/BlackKnight683\/BrokenDisc)__
+        **Developer:** [NexusLove#7140 ©](https:\/\/youtube.com\/c\/NexusLoveYT)
+        **Github Repo:** __[NexusLove/GOM](https:\/\/github.com\/NexusLove\/GOM)__
         **Prefix:** \/`
       )
       .addField("Bot Stats",
